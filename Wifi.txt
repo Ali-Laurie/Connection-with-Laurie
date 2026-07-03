@@ -8,7 +8,6 @@ vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?encryption=none&
 vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@45.65.112.21:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=play.google.com#Laurie%27s%20Wifi%20sub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0Vk5YOUxEdTZmcEVsWExp@20.107.201.69:443?#Laurie%27s%20Wifi%20sub
 vless://181d203a-e738-4aa4-a2d8-d82765f1c0c5@31.77.146.252.cdn-one.org:443?encryption=none&security=reality&sni=31-77-146-252.cdn-one.org&fp=chrome&pbk=OSiNJZQmDVJdoemKMEV5j60iRIQmZwPJUaXBgqUlDD4&sid=8b981a7e399c3920&spx=%2FKPuyF7PCFHn9pUq&type=tcp&headerType=none#Laurie%27s%20Wifi%20sub
-vless://181d203a-e738-4aa4-a2d8-d82765f1c0c5@31.77.146.252.cdn-one.org:443?encryption=none&security=reality&sni=31-77-146-252.cdn-one.org&pbk=OSiNJZQmDVJdoemKMEV5j60iRIQmZwPJUaXBgqUlDD4&sid=8b981a7e399c3920&type=tcp&headerType=none#Laurie%27s%20Wifi%20sub
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#Laurie%27s%20Wifi%20sub
 trojan://humanity@104.18.9.83:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#Laurie%27s%20Wifi%20sub
 trojan://humanity@104.18.8.83:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#Laurie%27s%20Wifi%20sub
